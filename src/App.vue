@@ -1,5 +1,5 @@
 <template>
-  <v-card color="basil">
+  <v-card color="secondary">
     <HeaderBlock/>
   </v-card>
 </template>
